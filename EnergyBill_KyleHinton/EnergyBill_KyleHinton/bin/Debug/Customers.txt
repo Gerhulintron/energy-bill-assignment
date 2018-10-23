@@ -1,0 +1,10 @@
+Martin Max	100	R	60.00
+Justin Beaver	101	R	72.21
+Martha Stewart	102	C	512.30
+Frodo Baggins	103	R	60.00
+Memetendo	104	I	371.34
+Earthworm Jim	101	R	19.99
+Cheesy Cheese	102	C	521.21
+TheFuture	103	I	777.77
+Freddy Mercury	104	R	210.87
+Thom Yorke	105	R	212.91

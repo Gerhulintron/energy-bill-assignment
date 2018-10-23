@@ -1,0 +1,38 @@
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe.config
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.pdb
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csprojAssemblyReference.cache
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.EnergyBill.resources
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.Properties.Resources.resources
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csproj.GenerateResource.cache
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csproj.CoreCompileInputs.cache
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.exe
+C:\Users\776182\Documents\CentralRepo\KyleHinton-kylehintoncode-1d60ffd59e31\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.pdb
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe.config
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.pdb
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csprojAssemblyReference.cache
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.EnergyBill.resources
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.Properties.Resources.resources
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csproj.GenerateResource.cache
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csproj.CoreCompileInputs.cache
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.exe
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.pdb
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe.manifest
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.application
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.exe.manifest
+C:\Users\776182\Documents\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.application
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe.config
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe.manifest
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.application
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.exe
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\bin\Debug\EnergyBill_KyleHinton.pdb
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csprojResolveAssemblyReference.cache
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.EnergyBill.resources
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.Properties.Resources.resources
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csproj.GenerateResource.cache
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.csproj.CoreCompileInputs.cache
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.exe.manifest
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.application
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.exe
+I:\SAIT OOSD\CentralRepo\Kyle_Hinton_Code\EnergyBill_KyleHinton\EnergyBill_KyleHinton\obj\Debug\EnergyBill_KyleHinton.pdb
